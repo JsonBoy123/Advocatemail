@@ -1,0 +1,1 @@
+@include('template_three.pages.post')
